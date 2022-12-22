@@ -57,8 +57,18 @@ git clone https://github.com/Blef0099/HeadHunterProject
 
 ## Использование
 Вся информация о работе представлена в jupyter-ноутбуке по ссылке https://drive.google.com/drive/folders/164Cr3rOM06z03hOowA0EkYPfGdrb13Lf?usp=share_link
-Ссылки на графики plotly:
-https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/age_distribution.html
+
+Ссылки на графики plotly к разделу "Исследование данных":
+* Задание 1. https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/age_distribution.html
+* Задание 8. https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/anomaly_line.html
+* Задание 5. https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/city_salary.html
+* Задание 2. https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/exp_distribution.html
+* Доп баллы https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/gender_ed.html
+* Задание 7. https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/pivot.html
+* Задание 6. https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/ready_to_move.html
+* Задание 4. https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/reduced_salary_diagram.html
+* Доп баллы https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/salary_by_city.html
+* Задание 3. https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/salary_distribution.html
 
 ## Авторы
 
