@@ -57,6 +57,8 @@ git clone https://github.com/Blef0099/HeadHunterProject
 
 ## Использование
 Вся информация о работе представлена в jupyter-ноутбуке по ссылке https://drive.google.com/drive/folders/164Cr3rOM06z03hOowA0EkYPfGdrb13Lf?usp=share_link
+Ссылки на графики plotly:
+https://nbviewer.org/github/Blef0099/HeadHunterProject/blob/master/plotly/age_distribution.html
 
 ## Авторы
 
